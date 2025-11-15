@@ -1,3 +1,4 @@
+@sanity
 Feature: Creation of New User Demo
 
   Scenario Outline: Creation of new User Data
