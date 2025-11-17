@@ -13,7 +13,8 @@ import io.cucumber.junit.CucumberOptions;
 	tags = "@sanity or @regression",
 	dryRun = false,
 	monochrome = false,
-	plugin = {"pretty","html:target/HtmlReports/index.html"}
+	plugin = {"pretty","html:target/HtmlReports/index.html",
+			"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 )
 
 public class TestRunner {
