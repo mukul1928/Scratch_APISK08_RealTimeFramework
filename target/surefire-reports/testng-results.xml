@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-21T19:57:21 IST" name="Surefire suite" finished-at="2025-11-21T19:57:31 IST" duration-ms="10417">
+    <groups>
+    </groups>
+    <test started-at="2025-11-21T19:57:21 IST" name="Surefire test" finished-at="2025-11-21T19:57:31 IST" duration-ms="10417">
+      <class name="Scratch_APISK08.Scratch_APISK08.AppTest">
+        <test-method signature="shouldAnswerWithTrue()" started-at="2025-11-21T19:57:21 IST" name="shouldAnswerWithTrue" finished-at="2025-11-21T19:57:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Scratch_APISK08.Scratch_APISK08.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
